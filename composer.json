@@ -1,6 +1,6 @@
 {
     "name": "drnkwati/guzzle-promises",
-    "description": "PHP 5.3-compatible fork of guzzle/promises",
+    "description": "PHP 5.3-compatible fork of guzzle/promises.",
     "keywords": ["promise"],
     "license": "MIT",
     "authors": [
